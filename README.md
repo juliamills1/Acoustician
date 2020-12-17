@@ -8,14 +8,15 @@ interior walls, and the materials of all walls. Edge walls are initialized as
 smooth unpainted concrete.
 
 Required packages: arcade, numpy, math
+
 Run via command line: "acoustician.py"
 
 -------------------------------------------------------------------------------
 Keyboard Controls:
-1-6: toggles through frequency options
-SPACE: sends soundwave at selected frequency
-E: change edge walls' material
-Quit: program can be ended by typing "quit" while entering any non-list input
+- 1-6: toggles through frequency options
+- SPACE: sends soundwave at selected frequency
+- E: change edge walls' material
+- Quit: program can be ended by typing "quit" while entering any non-list input
 
 To create interior walls, click Make Wall. Then click and drag to define either
 a planar wall or the radius of a circular wall.
