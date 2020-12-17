@@ -25,11 +25,11 @@ All absorption measurements are sourced from Acoustic Project Company data
 sheets: https://www.acoustic.ua/st/web_absorption_data_eng.pdf
 
 Current material choices:
-Smooth unpainted concrete
-Plasterboard on battens (18mm airspace with glass wool)
-Muslin-covered cotton felt (25mm thickness)
-Standard brickwork
-Clinker concrete (no surface finish)
+- Smooth unpainted concrete,
+- Plasterboard on battens (18mm airspace with glass wool),
+- Muslin-covered cotton felt (25mm thickness),
+- Standard brickwork,
+- Clinker concrete (no surface finish)
 
 -------------------------------------------------------------------------------
 Planned features for future releases:
